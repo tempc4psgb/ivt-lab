@@ -38,8 +38,5 @@ public class GT4500Test {
   }
 }
 
-<<<<<<< HEAD
 //megváltoztatva
-=======
 //ide is valtoztatas
->>>>>>> branch-b
