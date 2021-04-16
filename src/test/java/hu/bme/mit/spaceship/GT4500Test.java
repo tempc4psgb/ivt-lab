@@ -36,5 +36,5 @@ public class GT4500Test {
     // Assert
     assertEquals(true, result);
   }
-
 }
+//ide is valtoztatas
